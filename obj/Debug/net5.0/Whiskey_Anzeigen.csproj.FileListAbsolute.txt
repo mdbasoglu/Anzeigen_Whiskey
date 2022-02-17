@@ -1,0 +1,16 @@
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.csproj.AssemblyReference.cache
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.AssemblyInfoInputs.cache
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.AssemblyInfo.cs
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.csproj.CoreCompileInputs.cache
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\bin\Debug\net5.0\Whiskey_Anzeigen.exe
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\bin\Debug\net5.0\Whiskey_Anzeigen.deps.json
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\bin\Debug\net5.0\Whiskey_Anzeigen.runtimeconfig.json
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\bin\Debug\net5.0\Whiskey_Anzeigen.runtimeconfig.dev.json
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\bin\Debug\net5.0\Whiskey_Anzeigen.dll
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\bin\Debug\net5.0\Whiskey_Anzeigen.pdb
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.dll
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\refint\Whiskey_Anzeigen.dll
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.pdb
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\Whiskey_Anzeigen.genruntimeconfig.cache
+C:\Users\mdbas\OneDrive\Desktop\git Repository\Anzeigen_Whiskey\obj\Debug\net5.0\ref\Whiskey_Anzeigen.dll
