@@ -6,6 +6,8 @@ namespace Whiskey_Anzeigen
 {
     internal class Program
     {
+        private static object marken_Liste;
+
         static void Main(string[] args)
         {
 

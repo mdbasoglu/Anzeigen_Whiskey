@@ -17,8 +17,14 @@ namespace Whiskey_Anzeigen
 
 
 
+        public Marke (string _name, string _preis)
+        {
+            Name = _name;
+            Preis = _preis; 
+        }
 
 
+      
 
 
     }
