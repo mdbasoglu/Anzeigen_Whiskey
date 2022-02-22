@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Whiskey_Anzeigen
 {
-    internal class Typ
+    internal class Typ :Marke
     {
 
         private string _name;
@@ -14,17 +14,17 @@ namespace Whiskey_Anzeigen
 
         public string Name { get=>_name; set=>_name=value; }
 
-        public Typ(string _name) 
+        public Typ(string _name)
         
         { 
             Name=_name;
-        
-        
         }
 
-       
 
 
-
+        public override string ToString()
+        {
+            return $"{Marke[0].Name},{Name}, {Marke[0].Preis}";
+        }
     }
 }
