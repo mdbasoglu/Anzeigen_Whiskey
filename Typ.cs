@@ -14,12 +14,15 @@ namespace Whiskey_Anzeigen
 
         public string Name { get=>_name; set=>_name=value; }
 
-        public Typ() { }
-
-        public string Marken_Typ(string _name)
-        {
-            Name = _name;
+        public Typ(string _name) 
+        
+        { 
+            Name=_name;
+        
+        
         }
+
+       
 
 
 
